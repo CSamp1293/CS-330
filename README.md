@@ -1,4 +1,4 @@
-### CS-330
+# CS-330
 
 ## How do I approach designing software? 
 
